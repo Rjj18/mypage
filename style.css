@@ -1,0 +1,68 @@
+div.container{
+    width: 80vw;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+p{
+    font-size: 25px
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+
+}
+
+h3{
+    font-size: 30px;
+}
+
+div.menu{
+    background-color: white;
+    border: solid 1px;
+    height: 100vw;
+    width: 18vw;
+    position: fixed;
+}
+
+div.main{
+    background-color: rgb(238, 238, 238);
+    height: 100vw;
+    width: 62vw;
+    margin-left: 18vw;
+}
+
+div.herosection{
+    border: solid 1px;
+    background-color: white;
+}
+
+#cargo{
+    display: inline-block;
+    text-align: center;  
+}
+
+#imghero{
+
+}
+
+div.barrout{
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 10px;
+    width: 60vw;
+    height: 3vw;
+    background-color: white;
+}
+
+div.barrain{
+    border: solid 1px;
+    border-radius: 10px;
+    width: 50vw;
+    height: 3vw;
+    background-color: rgb(51, 51, 51);
+}
